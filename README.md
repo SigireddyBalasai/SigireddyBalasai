@@ -1,9 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SigireddyBalasai&show_icons=true)]
-![Snake animation](https://github.com/SigireddyBalasai/SigireddyBalasai/blob/output/github-contribution-grid-snake.svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=SigireddyBalasai)](https://github.com/ryo-ma/github-profile-trophy)
 <h2 align="center">GitHub Stats:</h3>
 <div align="center">
 
+![Snake animation](https://github.com/SigireddyBalasai/SigireddyBalasai/blob/output/github-contribution-grid-snake.svg)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SigireddyBalasai&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="SigireddyBalasai" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=SigireddyBalasai&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="SigireddyBalasai" />
