@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SigireddyBalasai/SigireddyBalasai/blob/output/github-contribution-grid-snake.svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=SigireddyBalasai)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 SigireddyBalasai/SigireddyBalasai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
