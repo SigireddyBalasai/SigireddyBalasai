@@ -1,6 +1,10 @@
 <h2 align="center">GitHub Stats:</h3>
 <div align="center">
-<object type="image/svg+xml" data="https://raw.githubusercontent.com/SigireddyBalasai/SigireddyBalasai/output/github-contribution-grid-snake.svg"></object>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
 <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,discord,bots,flask,git,github,java,linkedin,linux,md,mysql,powershell,py,raspberrypi,sqlite,selenium&perline=6" />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SigireddyBalasai" alt="SigireddyBalasai" /></a> </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SigireddyBalasai&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="SigireddyBalasai" />
