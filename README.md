@@ -1,7 +1,7 @@
 <h2 align="center">GitHub Stats:</h3>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,discord,bots,flask,git,github,java,linkedin,linux,md,mysql,powershell,py,raspberrypi,sqlite,selenium&perline=6" />
-    <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SigireddyBalasai/SigireddyBalasai/output/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/SigireddyBalasai/SigireddyBalasai/output/github-contribution-grid-snake.svg">
 </picture>
