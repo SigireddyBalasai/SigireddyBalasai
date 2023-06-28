@@ -16,4 +16,6 @@
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Balasai Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SigireddyBalasai&bg_color=130F40&color=7a7adb&line=2234ae&point=FFFFFF" /></a> -->
 
 </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
