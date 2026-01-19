@@ -11,6 +11,8 @@ jobs:
   update-badges:
     runs-on: ubuntu-latest
     name: Update README with badges
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
