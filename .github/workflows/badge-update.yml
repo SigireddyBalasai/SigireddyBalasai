@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update README with badges
-        uses: ../badge-readme
+        uses: SigireddyBalasai/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CREDLY_USER: balasai  # Adjust if needed
