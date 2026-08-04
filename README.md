@@ -4,7 +4,7 @@ Hello! 👋 I'm a passionate programmer with a knack for turning challenges into
 [![Deploy and Manage Applications on Google App Engine](https://images.credly.com/size/80x80/images/3f7aa8de-4e83-4fc8-95a8-ff28ec3cdb61/blob)](https://www.credly.com/badges/9016cb43-393d-4e06-96db-a37ac8e5bc0c)
 [![Deploy and Secure Serverless APIs with API Gateway](https://images.credly.com/size/80x80/images/bb5df9eb-54d0-4671-bed3-efb034c0682d/blob)](https://www.credly.com/badges/32a12f6f-da72-4806-81cd-62eec4a3d5e6)
 [![Build Serverless Applications with Cloud Run Functions](https://images.credly.com/size/80x80/images/68d09678-1374-4c02-a021-13657a5431c7/blob)](https://www.credly.com/badges/7d7413b0-0bc5-4322-9cb7-046fdf210c9d)
-[![Get Started with Pub/Sub Skill Badge](https://images.credly.com/size/80x80/images/4b9b3bd9-02b8-4243-8def-893557125497/image.png)](https://www.credly.com/badges/eb575111-00df-4f57-98cb-373cd662ae8f)
+[![Implement Event-Driven Messaging and Automation Workflows](https://images.credly.com/size/80x80/images/81d18a6f-00e5-42bf-83ca-c05f61b72f84/blob)](https://www.credly.com/badges/eb575111-00df-4f57-98cb-373cd662ae8f)
 [![Implement Cloud Storage and Data Protection Solutions](https://images.credly.com/size/80x80/images/88e2d83e-e9ab-4615-a98b-c8536869e4e6/blob)](https://www.credly.com/badges/c208cc0f-161d-4b6c-b7b0-c01442d41c11)
 [![The Basics of Google Cloud Compute Skill Badge](https://images.credly.com/size/80x80/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png)](https://www.credly.com/badges/07d3a557-33f5-4da2-90eb-98f37f08638e)
 [![Classify Images with TensorFlow on Google Cloud](https://images.credly.com/size/80x80/images/ba7d317c-0441-493d-9297-840162892581/image.png)](https://www.credly.com/badges/6228f177-9872-4f42-8f92-b07289d137bd)
